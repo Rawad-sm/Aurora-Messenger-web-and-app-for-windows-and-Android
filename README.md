@@ -10,6 +10,10 @@ Enjoy a continuously evolving messaging experience across the web, Windows, and 
 - 💻 **Windows Desktop App** — Enjoy Aurora Messenger on your Windows PC.
 - 📱 **Android App (APK)** — Install Aurora Messenger on compatible Android devices.
 - 💬 **Message Reactions** — Make conversations more interactive.
+- 📞 **Real-Time Voice Calls** — Make direct voice calls with other users.
+- ✏️ **Message Editing** — Edit your own text messages after sending them.
+- 🖼️ **Image Messaging** — Send and share images directly in conversations, with a preview before sending.
+- 🎙️ **Voice Messages** — Record and send voice messages in your chats.
 - 🔄 **Regular Updates** — Ongoing improvements and new features.
 - 🛠️ **Active Development** — Built and continuously improved by Rawad-sm.
 
@@ -35,6 +39,6 @@ https://aurora-messenger.onrender.com/
 
 🌐 **Web** | 💻 **Windows** | 📱 **Android APK**
 
-🔄 Regular Updates | 💬 Interactive Messaging | 🛠️ Continuous Improvements
+🔄 Regular Updates | 💬 Interactive Messaging | 📞 Voice Calls | 🖼️ Image Sharing | 🎙️ Voice Messages | ✏️ Message Editing
 
 ❤️ **Built with passion by Rawad-sm**
