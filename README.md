@@ -41,5 +41,5 @@ https://aurora-messenger.onrender.com/
 
 🔄 Regular Updates | 💬 Interactive Messaging | 📞 Voice Calls | 🖼️ Image Sharing | 🎙️ Voice Messages | ✏️ Message Editing
 
-❤️ **Built with passion by Rawad-sm**<img width="3000" height="3889" alt="https_aurora-messenger_onrender_com_" src="https://github.com/user-attachments/assets/d494c22c-106a-459e-ae78-2cf3c9ca5985" />
+❤️ **Built with passion by Rawad-sm**<img width="3000" height="3889" alt="https_aurora-messenger_onrender_com_" src="https://github.com/user-attachments/assets/b13b81cc-66d4-4191-9813-f5ad927b83c5" />
 
